@@ -1,4 +1,4 @@
-x=int(input('1 for add\n2 for subtract\n,3 for multiply\n,4 for divide\n,5 for square root'))
+x=int(input('1 for add\n2 for subtract\n3 for multiply\n4 for divide\n5 for square root'))
 if x==5:
   l=int(input('enter a number'))
   print(l**.5)
