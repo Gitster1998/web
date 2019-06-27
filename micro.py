@@ -1,7 +1,7 @@
 x=int(input('1 for add\n2 for subtract\n3 for multiply\n4 for divide\n5 for square root'))
 if x==5:
-  l=int(input('enter a number'))
-  print(l**.5)
+  m=int(input('enter a number'))
+  print(m**.5)
 else:
         m,n=input().split()
         m=int(m)
